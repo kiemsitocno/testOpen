@@ -23,6 +23,6 @@
     
   </dependencies>
   <build>
-    <finalName>test</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
